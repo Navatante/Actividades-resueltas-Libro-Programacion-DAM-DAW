@@ -3,7 +3,7 @@ Un economista te ha encargado un programa para realizar cálculos con el IVA.
 La aplicación debe solicitar la base imponible y el IVA que se debe aplicar.
 Muestra en pantalla el importe correspondiente al IVA y al total.
  */
-package Conceptos_Basicos_01;
+package Aplicacion_01;
 
 import java.util.Scanner; // Importamos la clase Scanner para obtener la entrada del usuario
 
