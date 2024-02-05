@@ -24,6 +24,14 @@ Al final de cada capítulo nos encontramos con:
 
 
 En este repositorio he decidido no incluir las Actividades resueltas por razones obvias y tampoco las actividades de ampliación, ya que están destinadas a la investigación más que a la resolución de problemas mediante código.
+Por lo tanto, las actividades que encontrareis son:
+<ul>
+  <li>Actividades propuestas.</li>
+  <li>Actividades de comprobación.</li>
+  <li>Actividades de aplicación.</li>
+</ul>
+
+
 
 > [!IMPORTANT]  
 > Si tenéis alguna duda o veis algún fallo no dudéis en contactar conmigo, estaré encantado de ayudar o ser corregido.
