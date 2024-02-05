@@ -5,7 +5,7 @@
 
 
 En mi camino para obtener de manera autónoma y autodidacta el ciclo formativo en Técnico Superior de Desarrollo de Aplicaciones Multiplataforma, decidí adquirir este libro para prepararme en la asignatura de Programación del primer año del curso.
-Aquí podéis encontrar los ejercicios de todos los temas del libro. El libro cuenta con diferentes tipos de actividades;
+Aquí podéis encontrar las actividades de todos los temas del libro.
 
 Durante el desarrollo de los capítulos nos encontramos con:
 
