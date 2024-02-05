@@ -7,7 +7,7 @@ package Aplicacion_01;
 
 import java.util.Scanner; // Importamos la clase Scanner para obtener la entrada del usuario
 
-public class Actividad_1_11 {
+public class MainProgram {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Creamos un objeto Scanner para leer la entrada del usuario
 
