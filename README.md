@@ -24,3 +24,9 @@ Al final de cada capítulo nos encontramos con:
 
 
 En este repositorio he decidido no incluir las Actividades resueltas por razones obvias y tampoco las actividades de ampliación, ya que están destinadas a la investigación más que a la resolución de problemas mediante código.
+
+> [!IMPORTANT]  
+> Si tenéis alguna duda o veis algún fallo no dudéis en contactar conmigo, estaré encantado de ayudar o ser corregido.
+
+> [!CAUTION]
+> Si bien considero que las respuestas son correctas, no han sido corregidas por ningún profesional.
