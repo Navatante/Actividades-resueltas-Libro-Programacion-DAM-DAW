@@ -14,8 +14,8 @@ public class MainProgram {
         Random random = new Random();
         int numAleatorio1, numAleatorio2, resultadoUsuario, resultadoPrograma;
         String comparacion;
-        numAleatorio1 = random.nextInt(1,9);
-        numAleatorio2 = random.nextInt(1,9);
+        numAleatorio1 = random.nextInt(1,99);
+        numAleatorio2 = random.nextInt(1,99);
         resultadoPrograma = numAleatorio1 + numAleatorio2;
         System.out.println("Sume " + numAleatorio1 + " + " + numAleatorio2);
         resultadoUsuario = scanner.nextInt();
