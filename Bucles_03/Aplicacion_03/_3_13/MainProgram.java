@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class MainProgram {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         System.out.print("Inserte la hora: ");
         int hora = Integer.parseInt(scanner.nextLine());
