@@ -26,5 +26,6 @@ public class MainProgram {
         String binarioCompleto = binarioParteEntera + binarioParteFraccionaria.toString();
 
         System.out.println("El número decimal " + numeroDecimal + " en binario es: " + binarioCompleto);
+        
     }
 }
